@@ -123,6 +123,8 @@
 				<string>onboard-1</string>
 				<key>layout-id</key>
 				<integer>69</integer>
+				<key>model</key>
+				<string>Realtek ALCS1200A</string>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
