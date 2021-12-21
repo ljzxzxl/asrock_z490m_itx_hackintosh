@@ -719,9 +719,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CG040046M</string>
+			<string>C02D8047046M</string>
 			<key>SystemUUID</key>
-			<string>185F68DD-B8C0-441E-9202-4A47B84A8A07</string>
+			<string>ADC02089-4823-4D0A-A4AA-17C88F56AD9B</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
@@ -730,11 +730,11 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02012108GU0000JA</string>
+			<string>C02034403GU00001M</string>
 			<key>ProcessorType</key>
 			<integer>4105</integer>
 			<key>ROM</key>
-			<data>qKFZRT8P</data>
+			<data>iLsJVq2b</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -742,9 +742,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CG040046M</string>
+			<string>C02D8047046M</string>
 			<key>SystemUUID</key>
-			<string>185F68DD-B8C0-441E-9202-4A47B84A8A07</string>
+			<string>ADC02089-4823-4D0A-A4AA-17C88F56AD9B</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
@@ -755,13 +755,13 @@
 			<key>FirmwareFeaturesMask</key>
 			<data>f//f/wgAAAA=</data>
 			<key>MLB</key>
-			<string>C02012108GU0000JA</string>
+			<string>C02034403GU00001M</string>
 			<key>ROM</key>
-			<data>qKFZRT8P</data>
+			<data>iLsJVq2b</data>
 			<key>SystemSerialNumber</key>
-			<string>C02CG040046M</string>
+			<string>C02D8047046M</string>
 			<key>SystemUUID</key>
-			<string>185F68DD-B8C0-441E-9202-4A47B84A8A07</string>
+			<string>145DCB79-B6F8-4B19-BC56-EE9C6AD32391</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
@@ -780,7 +780,7 @@
 			<key>BoardProduct</key>
 			<string>Mac-AF89B6D9451A490B</string>
 			<key>BoardSerialNumber</key>
-			<string>C02012108GU0000JA</string>
+			<string>C02046306QX0000FB</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
@@ -790,7 +790,7 @@
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>C02CG040046M</string>
+			<string>C02D8047046M</string>
 			<key>ChassisType</key>
 			<integer>13</integer>
 			<key>ChassisVersion</key>
@@ -814,9 +814,9 @@
 			<key>SystemSKUNumber</key>
 			<string>System SKU#</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CG040046M</string>
+			<string>C02D8047046M</string>
 			<key>SystemUUID</key>
-			<string>185F68DD-B8C0-441E-9202-4A47B84A8A07</string>
+			<string>ADC02089-4823-4D0A-A4AA-17C88F56AD9B</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
